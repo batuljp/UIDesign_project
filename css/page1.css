@@ -1,0 +1,30 @@
+.submitbtn
+{
+    border: 2px solid indigo;
+    font-size: 20px;
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif;
+    color: indigo;
+    letter-spacing: normal;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.box
+{
+    border: 3px solid indigo;
+    font-size: 20px;
+    background-color: lightcoral;
+    font-family: Arial, Helvetica, sans-serif; 
+    box-sizing: border-box;
+    letter-spacing: normal;
+    text-align: center;
+    text-decoration: none;
+}
+
+.header
+{
+    color: rebeccapurple;
+    font-style: oblique;
+}
